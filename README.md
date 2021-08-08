@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matteostorchi
-- I like :coffe:, :pizza: and :code:
+- I like ☕ 🍕 and code 🤓
 - 👀 I’m interested in Home brewing, Software Development and Agile Team Management
 - 🌱 I’m currently learning Spring Core/Docker/Scrum
 - 📫 You can find me on matteo.storchi@gmail.com
