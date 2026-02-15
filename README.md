@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matteostorchi
 - I like ☕ 🍕 and code 🤓
 - 👀 I’m interested in Home brewing, Software Development and Agile Team Management
-- 🌱 I’m currently learning Spring Core/.Net 8/Docker/Kubernetes
+- 🌱 I’m currently learning Spring Core/.Net 10/Kubernetes
 - 📫 You can find me on matteo.storchi@gmail.com
 
 <!---
